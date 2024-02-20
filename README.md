@@ -28,3 +28,11 @@
    ```````````
 
 
+Result Google Search
+![image](https://github.com/frhnfrnk/google-search/assets/88085604/18ea8157-9197-4c08-bf06-8b48eca16a4f)
+
+Result Youtube
+![image](https://github.com/frhnfrnk/google-search/assets/88085604/7057414a-e684-4090-a310-f62c5fe7a97b)
+
+
+
